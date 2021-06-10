@@ -52,7 +52,8 @@ ul {
 li {
   float: right;
   font-size:25px;
- 
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 
 li:last-child {
