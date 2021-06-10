@@ -37,6 +37,7 @@ margin: 500px;
 .navbar{
   margin-top: 10px;
   margin-bottom: 10px;
+  
 }
 
 ul {
@@ -50,7 +51,7 @@ ul {
 
 li {
   float: right;
-  font-size:20px;
+  font-size:25px;
  
 }
 
